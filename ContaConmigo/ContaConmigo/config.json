@@ -1,0 +1,9 @@
+{
+    "BloodGroup": {
+        "Default": "RH"
+    },
+    "ConnectionStrings": {
+        "CuentConnectionString": "server=(localdb)\\MSSQLLocalDB;Database=ContaConmigo;Integrated Security=true;MultipleActiveResultSets=true;"
+    }
+    //"(localdb)\\MSSQLLocalDB" "DESKTOP-L1E44UP\\LIAPASSSQL"
+}
